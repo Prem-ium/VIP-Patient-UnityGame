@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 73f3d70019b997e478b95d5966e5e897
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missile: {fileID: 162538, guid: 8360bcdf5f97bdc44ae3e39b8aca3404, type: 3}
+  - livesText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - speedText: {instanceID: 0}
+  - missilesText: {instanceID: 0}
+  - collisionParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
