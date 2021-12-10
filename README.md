@@ -1,4 +1,4 @@
-# VIP Patient - Unity Game Project
+# VIP Patient - Unity Game
 _________________________________
 **(#3) Instruction Manual/Cheat Sheet &amp; (#2) GAME FEATURES**
 
